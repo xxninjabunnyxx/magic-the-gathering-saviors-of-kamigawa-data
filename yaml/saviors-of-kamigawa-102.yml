@@ -1,0 +1,113 @@
+---
+object: card
+id: 2e48eb77-3bd7-444a-9262-799cc706c05a
+oracle_id: 749683c9-8cc0-4e8e-8d90-adda5e5f4e93
+multiverse_ids:
+- 88818
+mtgo_id: 22226
+mtgo_foil_id: 22227
+tcgplayer_id: 12451
+cardmarket_id: 12679
+name: Hidetsugu's Second Rite
+lang: en
+released_at: '2005-06-03'
+uri: https://api.scryfall.com/cards/2e48eb77-3bd7-444a-9262-799cc706c05a
+scryfall_uri: https://scryfall.com/card/sok/102/hidetsugus-second-rite?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/e/2e48eb77-3bd7-444a-9262-799cc706c05a.jpg?1562493025
+  normal: https://cards.scryfall.io/normal/front/2/e/2e48eb77-3bd7-444a-9262-799cc706c05a.jpg?1562493025
+  large: https://cards.scryfall.io/large/front/2/e/2e48eb77-3bd7-444a-9262-799cc706c05a.jpg?1562493025
+  png: https://cards.scryfall.io/png/front/2/e/2e48eb77-3bd7-444a-9262-799cc706c05a.png?1562493025
+  art_crop: https://cards.scryfall.io/art_crop/front/2/e/2e48eb77-3bd7-444a-9262-799cc706c05a.jpg?1562493025
+  border_crop: https://cards.scryfall.io/border_crop/front/2/e/2e48eb77-3bd7-444a-9262-799cc706c05a.jpg?1562493025
+mana_cost: "{3}{R}"
+cmc: 4.0
+type_line: Instant
+oracle_text: If target player has exactly 10 life, Hidetsugu's Second Rite deals 10
+  damage to that player.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 4db16ad3-2b95-442f-bb6b-e9aa7fe7f769
+set: sok
+set_name: Saviors of Kamigawa
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/4db16ad3-2b95-442f-bb6b-e9aa7fe7f769
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Asok&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/sok?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/2e48eb77-3bd7-444a-9262-799cc706c05a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A749683c9-8cc0-4e8e-8d90-adda5e5f4e93&unique=prints
+collector_number: '102'
+digital: false
+rarity: rare
+flavor_text: Hidetsugu never relinquished a grudge. He let it burn within him, gathering
+  ever greater intensity until the final moment of vengeance.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jeff Miracola
+artist_ids:
+- 9b465bde-3656-4495-ace4-af4ce29999ed
+illustration_id: c2131da8-21cb-4680-9c86-4504b0e00856
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 17600
+penny_rank: 5214
+prices:
+  usd: '0.74'
+  usd_foil: '4.91'
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: '5.00'
+  tix: '0.01'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=88818
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hidetsugu%27s+Second+Rite&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hidetsugu%27s+Second+Rite&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Hidetsugu%27s+Second+Rite
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/12451?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hidetsugu%27s+Second+Rite&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/22226?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

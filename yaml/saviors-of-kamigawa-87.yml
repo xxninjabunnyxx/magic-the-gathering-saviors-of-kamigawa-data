@@ -1,0 +1,113 @@
+---
+object: card
+id: 92a44255-2f3e-4e0b-aeab-9d2385b2afcd
+oracle_id: ed8bc0f2-5a65-4eb4-bf88-3642a55b6889
+multiverse_ids:
+- 74396
+mtgo_id: 22236
+mtgo_foil_id: 22237
+tcgplayer_id: 12517
+cardmarket_id: 12745
+name: Razorjaw Oni
+lang: en
+released_at: '2005-06-03'
+uri: https://api.scryfall.com/cards/92a44255-2f3e-4e0b-aeab-9d2385b2afcd
+scryfall_uri: https://scryfall.com/card/sok/87/razorjaw-oni?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/2/92a44255-2f3e-4e0b-aeab-9d2385b2afcd.jpg?1562495106
+  normal: https://cards.scryfall.io/normal/front/9/2/92a44255-2f3e-4e0b-aeab-9d2385b2afcd.jpg?1562495106
+  large: https://cards.scryfall.io/large/front/9/2/92a44255-2f3e-4e0b-aeab-9d2385b2afcd.jpg?1562495106
+  png: https://cards.scryfall.io/png/front/9/2/92a44255-2f3e-4e0b-aeab-9d2385b2afcd.png?1562495106
+  art_crop: https://cards.scryfall.io/art_crop/front/9/2/92a44255-2f3e-4e0b-aeab-9d2385b2afcd.jpg?1562495106
+  border_crop: https://cards.scryfall.io/border_crop/front/9/2/92a44255-2f3e-4e0b-aeab-9d2385b2afcd.jpg?1562495106
+mana_cost: "{3}{B}"
+cmc: 4.0
+type_line: Creature — Demon Spirit
+oracle_text: Black creatures can't block.
+power: '4'
+toughness: '5'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 4db16ad3-2b95-442f-bb6b-e9aa7fe7f769
+set: sok
+set_name: Saviors of Kamigawa
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/4db16ad3-2b95-442f-bb6b-e9aa7fe7f769
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Asok&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/sok?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/92a44255-2f3e-4e0b-aeab-9d2385b2afcd/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aed8bc0f2-5a65-4eb4-bf88-3642a55b6889&unique=prints
+collector_number: '87'
+digital: false
+rarity: uncommon
+flavor_text: It gnashed its teeth, and the battlefield filled with the screech of
+  blade striking blade.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Carl Critchlow
+artist_ids:
+- 17948f16-611a-44b8-8d10-9895a0bdfff1
+illustration_id: ff88a936-9934-47bf-ae91-f412a39c07b3
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 22383
+prices:
+  usd: '0.13'
+  usd_foil: '0.56'
+  usd_etched: 
+  eur: '0.08'
+  eur_foil: '0.45'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74396
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Razorjaw+Oni&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Razorjaw+Oni&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Razorjaw+Oni
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/12517?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Razorjaw+Oni&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/22236?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

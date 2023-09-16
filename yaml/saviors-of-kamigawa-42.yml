@@ -1,0 +1,116 @@
+---
+object: card
+id: f01ee008-76dd-4d4d-8273-ad5b28c8a2c7
+oracle_id: 38cfe4a0-6ead-435b-9f86-928205c0a52c
+multiverse_ids:
+- 84364
+mtgo_id: 22108
+mtgo_foil_id: 22109
+tcgplayer_id: 12467
+cardmarket_id: 12695
+name: Kami of the Crescent Moon
+lang: en
+released_at: '2005-06-03'
+uri: https://api.scryfall.com/cards/f01ee008-76dd-4d4d-8273-ad5b28c8a2c7
+scryfall_uri: https://scryfall.com/card/sok/42/kami-of-the-crescent-moon?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/0/f01ee008-76dd-4d4d-8273-ad5b28c8a2c7.jpg?1562496598
+  normal: https://cards.scryfall.io/normal/front/f/0/f01ee008-76dd-4d4d-8273-ad5b28c8a2c7.jpg?1562496598
+  large: https://cards.scryfall.io/large/front/f/0/f01ee008-76dd-4d4d-8273-ad5b28c8a2c7.jpg?1562496598
+  png: https://cards.scryfall.io/png/front/f/0/f01ee008-76dd-4d4d-8273-ad5b28c8a2c7.png?1562496598
+  art_crop: https://cards.scryfall.io/art_crop/front/f/0/f01ee008-76dd-4d4d-8273-ad5b28c8a2c7.jpg?1562496598
+  border_crop: https://cards.scryfall.io/border_crop/front/f/0/f01ee008-76dd-4d4d-8273-ad5b28c8a2c7.jpg?1562496598
+mana_cost: "{U}{U}"
+cmc: 2.0
+type_line: Legendary Creature — Spirit
+oracle_text: At the beginning of each player's draw step, that player draws an additional
+  card.
+power: '1'
+toughness: '3'
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 4db16ad3-2b95-442f-bb6b-e9aa7fe7f769
+set: sok
+set_name: Saviors of Kamigawa
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/4db16ad3-2b95-442f-bb6b-e9aa7fe7f769
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Asok&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/sok?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f01ee008-76dd-4d4d-8273-ad5b28c8a2c7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A38cfe4a0-6ead-435b-9f86-928205c0a52c&unique=prints
+collector_number: '42'
+digital: false
+rarity: rare
+flavor_text: |-
+  "He's a lot like me, that masterless little kami . . . unimpressed by grandeur and never at a loss for a trick."
+  —Toshiro Umezawa
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Darrell Riche
+artist_ids:
+- 262c8e55-4efc-467b-a042-6f734b9d2e01
+illustration_id: d4c5357f-7a07-4e8b-a0e9-1c82cb620bd8
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 1634
+penny_rank: 4708
+prices:
+  usd: '2.03'
+  usd_foil: '13.73'
+  usd_etched: 
+  eur: '1.56'
+  eur_foil: '9.00'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=84364
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Kami+of+the+Crescent+Moon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Kami+of+the+Crescent+Moon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Kami+of+the+Crescent+Moon
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/12467?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kami+of+the+Crescent+Moon&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/22108?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

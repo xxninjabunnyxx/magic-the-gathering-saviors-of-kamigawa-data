@@ -1,0 +1,114 @@
+---
+object: card
+id: 4eed13fd-68be-4bc3-af6a-d88baaf9c98d
+oracle_id: 54db986e-cf8a-4d2c-8ce9-13da11b11464
+multiverse_ids:
+- 84705
+mtgo_id: 22130
+mtgo_foil_id: 22131
+tcgplayer_id: 12471
+cardmarket_id: 12699
+name: Kemuri-Onna
+lang: en
+released_at: '2005-06-03'
+uri: https://api.scryfall.com/cards/4eed13fd-68be-4bc3-af6a-d88baaf9c98d
+scryfall_uri: https://scryfall.com/card/sok/76/kemuri-onna?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/e/4eed13fd-68be-4bc3-af6a-d88baaf9c98d.jpg?1562493706
+  normal: https://cards.scryfall.io/normal/front/4/e/4eed13fd-68be-4bc3-af6a-d88baaf9c98d.jpg?1562493706
+  large: https://cards.scryfall.io/large/front/4/e/4eed13fd-68be-4bc3-af6a-d88baaf9c98d.jpg?1562493706
+  png: https://cards.scryfall.io/png/front/4/e/4eed13fd-68be-4bc3-af6a-d88baaf9c98d.png?1562493706
+  art_crop: https://cards.scryfall.io/art_crop/front/4/e/4eed13fd-68be-4bc3-af6a-d88baaf9c98d.jpg?1562493706
+  border_crop: https://cards.scryfall.io/border_crop/front/4/e/4eed13fd-68be-4bc3-af6a-d88baaf9c98d.jpg?1562493706
+mana_cost: "{4}{B}"
+cmc: 5.0
+type_line: Creature — Spirit
+oracle_text: |-
+  When Kemuri-Onna enters the battlefield, target player discards a card.
+  Whenever you cast a Spirit or Arcane spell, you may return Kemuri-Onna to its owner's hand.
+power: '3'
+toughness: '3'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 4db16ad3-2b95-442f-bb6b-e9aa7fe7f769
+set: sok
+set_name: Saviors of Kamigawa
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/4db16ad3-2b95-442f-bb6b-e9aa7fe7f769
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Asok&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/sok?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4eed13fd-68be-4bc3-af6a-d88baaf9c98d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A54db986e-cf8a-4d2c-8ce9-13da11b11464&unique=prints
+collector_number: '76'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Ittoku
+artist_ids:
+- d3a47c28-84e9-4b53-a236-5066ae1bb62f
+illustration_id: 6155f8e7-c958-4a62-9257-6b8b06284390
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18365
+penny_rank: 14946
+prices:
+  usd: '0.10'
+  usd_foil: '2.19'
+  usd_etched: 
+  eur: '0.07'
+  eur_foil: '1.00'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=84705
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Kemuri-Onna&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Kemuri-Onna&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Kemuri-Onna
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/12471?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kemuri-Onna&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/22130?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
